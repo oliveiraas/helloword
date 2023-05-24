@@ -1,0 +1,10 @@
+// Delphi
+Program Word;
+
+{$APPTYPE CONSOLE}
+
+Begin
+  WriteLn('Hello World');
+  WriteLn('Hola mundo');
+  WriteLn('Olá mundo');
+End.
