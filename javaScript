@@ -1,0 +1,5 @@
+// JavaScript
+
+console.log("Hello World");
+console.log("Hola mundo");
+console.log("Olá mundo");
