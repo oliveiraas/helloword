@@ -1,0 +1,8 @@
+//C#
+class HelloWorld {
+    static void Main() {
+        System.Console.WriteLine("Hello world!");
+        System.Console.WriteLine("¡Hola mundo!");
+        System.Console.WriteLine("Olá mundo!");
+    }
+}
